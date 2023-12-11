@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jinwoo+Oh!;" />
 </h1>
 
-<h3 align="center">A passionate data scientist/engineer from USA</h3>
+<h3 align="center">A passionate data scientist/engineer from USA ![image](https://github.com/jwoh1323/jwoh1323/assets/44737873/6230e766-1ed8-4a49-9d35-f585ea5c4d20)</h3>
 
 <br/>
 
