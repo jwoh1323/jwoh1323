@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Data Engineering with Azure, Large Language Model**
 
-💬 Ask me about **anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **anything [here](https://github.com/jwoh1323/jwoh1323/issues)**
 
  </div>
 
