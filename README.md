@@ -16,6 +16,8 @@
 
 💬 Ask me anything about **my projects [here](https://github.com/jwoh1323/jwoh1323/issues)**
 
+📄 Know about my experiences **my resume [here](https://github.com/jwoh1323/jwoh1323/issues)**
+
  </div>
 
 <h3 align="left">Languages and Tools:</h3>
