@@ -45,7 +45,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
-    ![snake gif](https://github.com/jwoh1323/jwoh1323/blob/output/github-contribution-grid-snake.gif)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jwoh1323/jwoh1323/output/github-contribution-grid-snake.svg" />
   
   <br/>
 </div>
